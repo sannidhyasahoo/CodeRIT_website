@@ -131,6 +131,7 @@
 .formCard {
   background: transparent;
   border: none;
+  -webkit-backdrop-filter: none;
   backdrop-filter: none;
   border-radius: 0;
   padding: 0;
