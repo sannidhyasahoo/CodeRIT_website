@@ -97,7 +97,7 @@ export default function PlacementTalkForm() {
               type="text"
               value={formData.usn}
               onChange={handleChange}
-              placeholder="e.g. 1MS24CS067"
+              placeholder="e.g. 1MS27CS007"
               className={styles.input}
               required
             />
